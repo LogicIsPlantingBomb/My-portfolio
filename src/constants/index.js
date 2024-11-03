@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'Developed a robust chat application offering seamless real-time communication and geolocation sharing. The application provides users with the ability to create chat rooms, send instant messages, and share their current location with others in the chat room. This project showcases the integration of WebSockets for real-time updates and demonstrates proficiency in both frontend and backend development.',
     subdesc:
       'The frontend is built with basic HTML, CSS, and JavaScript, ensuring a user-friendly and responsive interface, while the backend leverages Node.js and Socket.IO for efficient, event-driven communication, ChatApp is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://github.com/LogicIsPlantingBomb/CHAT',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -99,7 +99,7 @@ export const myProjects = [
     desc: 'Developed an advanced monitoring system for Digital Water Level Recorders (DWLR) deployed across India. This application tracks water levels in various regions, providing real-time data visualization through interactive maps, graphs, and pie charts,The DWLR Monitoring System is designed to provide comprehensive monitoring and analysis of water levels across various locations in India,its a real time monitoring application.',
     subdesc:
       'Built with React and Tailwind CSS, the application offers a modern, responsive user interface. The integration of Mapbox allows for detailed geographical representation of water level data, while additional libraries enhance the analytical capabilities with comprehensive charting features,Advanced mapping platform for displaying geographical data and visualizing water levels.Libraries for creating interactive and responsive graphs and pie charts(Chart.js/Recharts,Mapbox).',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+    href: 'https://dwlr.nevernever.me/',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -136,7 +136,7 @@ export const myProjects = [
     desc: 'Developed an engaging 2D role-playing game (RPG) using the Simple and Fast Multimedia Library (SFML) and C++. The game features immersive player and enemy mechanics, a dynamic combat system, and smooth frame rate management. With detailed graphics and a modular codebase, this project showcases proficiency in game development, object-oriented programming, and real-time rendering.',
     subdesc:
       'FML (Simple and Fast Multimedia Library): Framework for handling graphics, windowing, audio, and network functionalities,C++: Core programming language for implementing game logic, mechanics, and performance optimization,Tiled Map Editor: Used for designing and managing game levels,GIMP/Photoshop: For creating and editing game sprites and textures,Git: Version control system for managing and tracking changes in the codebase.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+    href: 'https://github.com/LogicIsPlantingBomb/SFML-RPG',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
